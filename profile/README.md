@@ -1,5 +1,5 @@
 
-<a href="https://xnserver.xyz"><img src="/assets/priceindex.png" alt="drawing"/></a> 
+<a href="https://xnserver.xyz"><img src="/assets/banner.png" alt="drawing"/></a> 
 
 Lots of useful utilities here for the [MythicMC Price Index](https://xnserver.xyz) \
 You can also visit the [Developer Updates](https://github.com/Price-Index/.github/blob/main/profile/UPDATES.md) to find up to date information.
