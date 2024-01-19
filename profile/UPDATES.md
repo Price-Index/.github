@@ -1,5 +1,5 @@
 <a href="https://xnserver.xyz">
-  <img src="/assets/banner.png" alt="drawing" style="max-width: 100%; height: auto;">
+  <img src="../assets/banner.png" alt="drawing" style="max-width: 100%; height: auto;">
 </a>
 
 # <p align="center"> Developer Updates </p>
