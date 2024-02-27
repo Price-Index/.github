@@ -7,7 +7,7 @@ You can also visit the [Developer Updates](https://github.com/Price-Index/.githu
 
 ## Downloads
 - [Shop Log Parser](https://github.com/Price-Index/Shop-Log-Parser/releases) \
-  ↳ [Documentation](https://github.com/Price-Index/Shop-Log-Parser/blob/master/docs/SHOPLOGPARSER.md)
+  ↳ [Documentation](https://github.com/Price-Index/Shop-Log-Parser)
 
 ## License
 All of the repositories in this organization are licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license. \
