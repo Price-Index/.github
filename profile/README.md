@@ -6,7 +6,7 @@ Lots of useful utilities here for the [MythicMC Price Index](https://xnserver.xy
 You can also visit the [Developer Updates](https://github.com/Price-Index/.github/blob/main/profile/UPDATES.md) to find up to date information.
 
 ## Downloads
-- [Shop Log Parser]([https://github.com/Price-Index/Shop-Log-Parser](https://github.com/Price-Index/Shop-Log-Parser/releases)) \
+- [Shop Log Parser](https://github.com/Price-Index/Shop-Log-Parser/releases) \
   ↳ [Documentation](https://github.com/Price-Index/Shop-Log-Parser/blob/master/docs/SHOPLOGPARSER.md)
 
 ## License
