@@ -8,6 +8,7 @@
 
 ### The [Shop Log Parser](https://github.com/Price-Index/Shop-Log-Parser) has been updated!
 > [!TIP]
-> Latest version is now [v1.0.1](https://github.com/Price-Index/Shop-Log-Parser/releases/tag/v1.0.1)!
+> Latest version is now [v1.0.2](https://github.com/Price-Index/Shop-Log-Parser/releases/tag/v1.0.2)!
 
-The Shop Log Parser should now work correctly without any issues and not need any future updates (except for 1 small directory hotfix _soon_, which shouldn't really affect any parsed data.)
+We added more optimization and price accuracy... nevertheless, update if you haven't already, no big differences. \
+The only thing we do ask you is to contact us incase you find any troubles or bugs.
