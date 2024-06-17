@@ -6,7 +6,7 @@
 
 ---
 
-### The [Dictionaries](https://github.com/Price-Index/Dictionaries) have been added!
+### The [Shop Log Parser Dictionary](https://github.com/Price-Index/Shop-Log-Parser-Dictionary) have been added!
 > [!CAUTION]
 > The dictionaries may not be complete, if you find some missing values please notify [@thevoxy](https://discordapp.com/users/967391331553013811) on discord.
 
