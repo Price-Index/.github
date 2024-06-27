@@ -13,7 +13,7 @@
 
 ### The [Shop Log Parser](https://github.com/Price-Index/Shop-Log-Parser) has been updated!
 > [!TIP]
-> Latest version is now [v2.0.0-alpha](https://github.com/Price-Index/Shop-Log-Parser/releases/tag/v2.0.0-alpha)!
+> Latest version is now [v2.0.0](https://github.com/Price-Index/Shop-Log-Parser/releases/tag/v2.0.0)!
 
 > [!IMPORTANT]
 > This version is a pre-release may contain bugs, and still has to be tested. \
