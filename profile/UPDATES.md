@@ -16,7 +16,7 @@
 > Latest version is now [v2.0.0](https://github.com/Price-Index/Shop-Log-Parser/releases/tag/v2.0.0)!
 
 > [!IMPORTANT]
-> This version is a pre-release may contain bugs, and still has to be tested. \
-> However, this version is a major release, thus previous versions will not be supported anymore by the PriceIndex in the future, as the exported data format is now different.
+> This version still may contain bugs. \
+> This version is a major release, thus previous versions will not be supported anymore by the PriceIndex in the future, as the exported data format is now different.
 
 The only thing we do ask you is to contact us incase you find any troubles or bugs.
