@@ -10,5 +10,5 @@ You can also visit the [Developer Updates](https://github.com/Price-Index/.githu
   ↳ [Documentation](https://github.com/Price-Index/Shop-Log-Parser)
 
 ## License
-All of the repositories in this organization are licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license. \
+All of the repositories in this organization are licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license unless otherwise specified in that repository. \
 See [LICENSE](/LICENSE) for more details.
